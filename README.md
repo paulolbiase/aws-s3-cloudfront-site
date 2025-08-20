@@ -2,7 +2,8 @@
 
 Reforçando meus conhecimentos em **Cloud Computing**, realizei um laboratório prático para hospedagem de sites estáticos e distribuição de conteúdo via CDN na AWS.
 
-<img width="1919" height="1079" alt="Siteestatico" src="https://github.com/user-attachments/assets/63950523-1d3b-46d8-9b8f-1e97c608d056" />
+<img src="https://github.com/user-attachments/assets/f9b0d165-db37-477d-91be-d5b340cfb7e6" alt="Site Estático" width="650">
+
 
 ## Etapas do projeto
 
