@@ -21,3 +21,11 @@ Durante o processo, percebi que, ao usar o endpoint padrão do S3 com CloudFront
 - Amazon S3
 - Amazon CloudFront
 - HTML, CSS e JavaScript (para o site estático)
+
+## Configurações da distribuição CloudFront
+
+Segue um resumo das principais configurações que utilizei na distribuição:
+
+![Configuração do Cloudfront](https://github.com/user-attachments/assets/7841829a-5522-4a32-8e9f-a8c953b1a869)
+![Configuração do root object](https://github.com/user-attachments/assets/24b350e7-1cc7-4b49-82c0-f4765b29a938)
+
